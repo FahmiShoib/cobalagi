@@ -3,5 +3,8 @@
 2. Eksperimen baterai 18650
   * Baterai bekas laptop
 3. Eksperimen scc powmr
+  * 60A
 4. Eksperimen LVD
 5. Eksperimen inverter
+6. Eksperimen MCB
+  * MCB 60A
