@@ -7,5 +7,4 @@
 4. Eksperimen LVD
 5. Eksperimen inverter
 6. Eksperimen MCB
-  * MCB 60A
   * MCB 30A
