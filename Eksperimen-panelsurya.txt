@@ -4,8 +4,7 @@
   * Baterai bekas laptop
 3. Eksperimen scc powmr
   * 60A
-  * 20A
 4. Eksperimen LVD
 5. Eksperimen inverter
 6. Eksperimen MCB
-  * MCB 60A
+  * MCB 30A
