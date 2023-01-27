@@ -1,5 +1,5 @@
 Coba belajar 1
 1. Bagaimana membuat kode yang baik
 2. Bagaimana kinerja panel surya disaat musim hujan
-3. Bagaimana performa scc powmr 60a
-4. Bagaimana kapasitas baterai
+3. Bagaimana kapasitas baterai
+4. Bagaimana scc Techfine bekerja
