@@ -3,3 +3,4 @@ Coba belajar 1
 2. Bagaimana kinerja panel surya disaat musim hujan
 3. Bagaimana kapasitas baterai
 4. Bagaimana scc Techfine bekerja
+5. Bagaimana cara mengoptimalkan panel surya
