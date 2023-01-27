@@ -4,3 +4,4 @@
   * Baterai bekas laptop
 3. Eksperimen scc powmr
 4. Eksperimen LVD
+5. Eksperimen inverter
